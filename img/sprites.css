@@ -1,0 +1,76 @@
+.checkbox, .close-icon, .enter-icon, .fb-black, .fb-white, .instagram-black, .instagram-white, .login-icon, .password-icon, .radio, .vk-black, .vk-white{
+	background: url(sprites.png) no-repeat;
+}
+
+.checkbox{
+	background-position: -55px -55px ;
+	width: 12px;
+	height: 12px;
+}
+
+.close-icon{
+	background-position: -51px 0;
+	width: 21px;
+	height: 21px;
+}
+
+.enter-icon{
+	background-position: -4px -1px ;
+	width: 18px;
+	height: 16px;
+}
+
+.fb-black{
+	background-position: -4px -296px ;
+	width: 12px;
+	height: 22px;
+}
+
+.fb-white{
+	background-position: -46px -297px ;
+	width: 12px;
+	height: 22px;
+}
+
+.instagram-black{
+	background-position: -1px -247px ;
+	width: 21px;
+	height: 21px;
+}
+
+.instagram-white{
+	background-position: -50px -250px ;
+	width: 21px;
+	height: 21px;
+}
+
+.login-icon{
+	background-position: -6px -152px ;
+	width: 15px;
+	height: 15px;
+}
+
+.password-icon{
+	background-position: -4px -98px ;
+	width: 15px;
+	height: 17px;
+}
+
+.radio{
+	background-position: -7px -58px ;
+	width: 8px;
+	height: 8px;
+}
+
+.vk-black{
+	background-position: 0 -199px ;
+	width: 25px;
+	height: 16px;
+}
+
+.vk-white{
+	background-position: -46px -201px ;
+	width: 25px;
+	height: 16px;
+}
+
